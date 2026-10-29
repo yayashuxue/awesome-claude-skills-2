@@ -273,6 +273,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
+- [solo-founder-playbook](https://github.com/yayashuxue/solo-founder-playbook) - Six startup skills (idea check, failure modes, growth channels, plan roast) grounded in patterns from 101 Starter Story founder interviews.
 
 
 ## 🤝 Contribution
